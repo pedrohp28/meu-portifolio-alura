@@ -24,6 +24,11 @@ body {
     justify-content: space-between;
 }
 
+.apresentacao__foto {
+    width: 490px;
+    border-radius: 16px;
+}
+
 .apresentacao__conteudo {
     width: 615px;
     display: flex;
